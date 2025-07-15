@@ -1,0 +1,27 @@
+# Ignorar archivos del sistema de Mac
+.DS_Store
+
+# Ignorar carpeta de dependencias de Node.js
+node_modules/
+
+# Ignorar carpetas de dependencias adicionales (por ejemplo, vendor para PHP)
+vendor/
+
+# Ignorar archivos de build
+dist/
+build/
+
+# Ignorar archivos de entorno y variables privadas
+.env
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar la caché de SASS
+.sass-cache/
+
+# Ignorar archivos temporales de sistema
+*.tmp
+Thumbs.db
+
+# Comentario: Puedes agregar más reglas según tu stack y necesidad
